@@ -1,7 +1,7 @@
 Jeevan Prakash H A
 B.Tech in Computer Science Engineering (Specialization in AI and Robotics)
 Vellore Institute of Technology (VIT), Chennai, India
-Contact: 7299738393 | Email: jeevanvitwork@gmail.com | LinkedIn: [Your LinkedIn URL]
+Contact: 7299738393 | Email: jeevanvitwork@gmail.com | LinkedIn: https://www.linkedin.com/in/jeevan-prakash-b3846a211/
 About Me
 
 Aspiring AI and Robotics professional with a strong foundation in programming, robotics, and mathematical problem-solving. Adapt in applying innovative solutions to complex challenges, with a commitment to excellence in all objectives. Eager to contribute to projects in AI and robotics.
